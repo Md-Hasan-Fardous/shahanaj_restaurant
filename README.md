@@ -1,2 +1,2 @@
 # shahanaj_restaurant
-This is web template for Shahanaj Restaurant
+This is a responsive web template for Shahanaj Restaurant
